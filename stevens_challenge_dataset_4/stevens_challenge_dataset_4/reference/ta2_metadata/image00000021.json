@@ -1,0 +1,53 @@
+{
+     "version": "4.2.0",
+     "fname": "image00000021.png",
+     "site": "SIT_campus",
+     "source": "camA003",
+     "collection": "2023-12-02-14-23-09",
+     "timestamp": 1701544989.0,
+     "extrinsics": {
+          "lat": 40.7453383,
+          "lon": -74.0257397,
+          "alt": 42.64026969909668,
+          "omega": -0.0368208657551,
+          "phi": 0.902434245427,
+          "kappa": -2.43326150798
+     },
+     "intrinsics": {
+          "fx": 2810.0502403212413,
+          "fy": 2810.368191925827,
+          "cx": 2659.45774799179,
+          "cy": 1506.4682591699664,
+          "k1": 0.017490663559648095,
+          "k2": -0.033434491338205564,
+          "k3": 0.0239182967753969,
+          "p1": 0.00024263145253182732,
+          "p2": -0.0003124233062363525,
+          "p3": 0,
+          "p4": 0,
+          "rows": 2988,
+          "columns": 5312
+     },
+     "projection": "fisheye_pix4d",
+     "calibration": "none",
+     "geolocation": "gps",
+     "pii_status": "n/a",
+     "env_conditions": [
+          "overcast",
+          "wet_ground"
+     ],
+     "type": "airborne",
+     "modes": [],
+     "exterior": true,
+     "interior": false,
+     "transient_occlusions": [],
+     "artifacts": [],
+     "masks": {
+          "key": {
+               "rle": "",
+               "method": ""
+          }
+     },
+     "pii_detected": [],
+     "pii_removed": []
+}

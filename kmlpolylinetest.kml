@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Parallel Paths Example (Red)</name>
+    <description>Example KML file with two parallel red paths.</description>
+
+    <!-- Style for red paths -->
+    <Style id="redLine">
+      <LineStyle>
+        <color>ff0000ff</color> <!-- Red color (RGBA format) -->
+        <width>2</width> <!-- Line width -->
+      </LineStyle>
+    </Style>
+
+    <!-- First Path -->
+    <Placemark>
+      <name>Path 1</name>
+      <styleUrl>#redLine</styleUrl> <!-- Apply red line style -->
+      <LineString>
+        <coordinates>
+          -122.087,37.422
+          -122.087,37.420
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+    <!-- Second Path (Parallel) -->
+    <Placemark>
+      <name>Path 2</name>
+      <styleUrl>#redLine</styleUrl> <!-- Apply red line style -->
+      <LineString>
+        <coordinates>
+          -122.087,37.410
+          -122.087,37.412
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+  </Document>
+</kml>
