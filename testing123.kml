@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+	<Document>
+		<name></name>
+		<description></description>
+		<Style id="path_style">
+			<LineStyle>
+				<color>ff00ffff</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff00ff00</color>
+			</PolyStyle>
+		</Style>
+		<Placemark>
+			<name></name>
+			<description></description>
+			<styleUrl>#path_style</styleUrl>
+			<LineString>
+				<extrude>0</extrude>
+				<tesselate>1</tesselate>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>
+					1,2,0
+					3,4,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+		<Placemark>
+			<name></name>
+			<description></description>
+			<styleUrl>#path_style</styleUrl>
+			<LineString>
+				<extrude>0</extrude>
+				<tesselate>1</tesselate>
+				<altitudeMode>clampToGround</altitudeMode>
+				<coordinates>
+					5,6,0
+					7,8,0
+				</coordinates>
+			</LineString>
+		</Placemark>
+	</Document>
+</kml>
