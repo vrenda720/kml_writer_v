@@ -21,7 +21,7 @@ parser.add_argument('-i',
 
 parser.add_argument('-o',
                     '--outfile',
-                    help="Write output kml to this path",
+                    help="Name of output file (include .kml at the end. File will be in same folder as this script)",
                     metavar="",
                     action="store")
 
