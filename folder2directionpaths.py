@@ -3,10 +3,7 @@ from kmlwriter_direction_paths import kml_writer
 import json
 from dir_crawler import dir_crawler
 import os
-import sys
-# import kml_writer, view_edit
 import argparse
-# import pdb
 
 parser = argparse.ArgumentParser(
     prog="Folder to KML",
@@ -27,8 +24,6 @@ parser.add_argument('-o',
 
 args = parser.parse_args()
 
-# files = dir_crawler(r'C:\msys64\home\didi\kml_writer\stevens_challenge_dataset_4\stevens_challenge_dataset_4\reference\ta2_metadata','.json',None)
-# files = dir_crawler(r'D:\240325-siteRTX0002-delivery\siteRTX002-SIT-sampus\siteRTX0002-SIT-campus\camA001-ZED2-2K-1\2024-01-31-13-14-31', '.json', None)
 files = dir_crawler(args.input, '.json', None)
 jsons = files.traverse()
 
