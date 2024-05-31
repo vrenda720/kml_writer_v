@@ -28,7 +28,7 @@ class kml_writer:
         self.outfilehandle.write(
             "\t\t<Style id=\"path_style1\">\n"
             "\t\t\t<LineStyle>\n"
-            "\t\t\t\t<color>ff00ff00</color>\n"
+            "\t\t\t\t<color>ff00ffff</color>\n"
             "\t\t\t\t<width>5</width>\n"
             "\t\t\t</LineStyle>\n"
             "\t\t\t<PolyStyle>\n"
@@ -39,7 +39,40 @@ class kml_writer:
         self.outfilehandle.write(
             "\t\t<Style id=\"path_style2\">\n"
             "\t\t\t<LineStyle>\n"
+            "\t\t\t\t<color>ff00ff00</color>\n"
+            "\t\t\t\t<width>5</width>\n"
+            "\t\t\t</LineStyle>\n"
+            "\t\t\t<PolyStyle>\n"
+            "\t\t\t\t<color>ff00ff00</color>\n"
+            "\t\t\t</PolyStyle>\n"
+            "\t\t</Style>\n"
+        )
+        self.outfilehandle.write(
+            "\t\t<Style id=\"path_style3\">\n"
+            "\t\t\t<LineStyle>\n"
+            "\t\t\t\t<color>ffffff00</color>\n"
+            "\t\t\t\t<width>5</width>\n"
+            "\t\t\t</LineStyle>\n"
+            "\t\t\t<PolyStyle>\n"
+            "\t\t\t\t<color>ff00ff00</color>\n"
+            "\t\t\t</PolyStyle>\n"
+            "\t\t</Style>\n"
+        )
+        self.outfilehandle.write(
+            "\t\t<Style id=\"path_style4\">\n"
+            "\t\t\t<LineStyle>\n"
             "\t\t\t\t<color>ffff0000</color>\n"
+            "\t\t\t\t<width>5</width>\n"
+            "\t\t\t</LineStyle>\n"
+            "\t\t\t<PolyStyle>\n"
+            "\t\t\t\t<color>ffff0000</color>\n"
+            "\t\t\t</PolyStyle>\n"
+            "\t\t</Style>\n"
+        )
+        self.outfilehandle.write(
+            "\t\t<Style id=\"path_style5\">\n"
+            "\t\t\t<LineStyle>\n"
+            "\t\t\t\t<color>ffff00ff</color>\n"
             "\t\t\t\t<width>5</width>\n"
             "\t\t\t</LineStyle>\n"
             "\t\t\t<PolyStyle>\n"
@@ -54,16 +87,21 @@ class kml_writer:
             "\t\t\t<description></description>\n".format(name))
         self.outfilehandle.write(next_line1)
 
-        if self.pathid == 0:
-            next_line2 = ("\t\t\t<styleUrl>#path_style0</styleUrl>\n")
-            self.pathid = 1
-        elif self.pathid == 1:
-            next_line2 = ("\t\t\t<styleUrl>#path_style1</styleUrl>\n")
-            self.pathid = 2
-        elif self.pathid == 2:
-            next_line2 = ("\t\t\t<styleUrl>#path_style2</styleUrl>\n")
+        # if self.pathid == 0:
+        #     next_line2 = ("\t\t\t<styleUrl>#path_style0</styleUrl>\n")
+        #     self.pathid = 1
+        # elif self.pathid == 1:
+        #     next_line2 = ("\t\t\t<styleUrl>#path_style1</styleUrl>\n")
+        #     self.pathid = 2
+        # elif self.pathid == 2:
+        #     next_line2 = ("\t\t\t<styleUrl>#path_style2</styleUrl>\n")
+        #     self.pathid = 0
+        # self.outfilehandle.write(next_line2)
+
+        self.outfilehandle.write((f"\t\t\t<styleUrl>#path_style{self.pathid}</styleUrl>\n"))
+        self.pathid = self.pathid + 1
+        if self.pathid == 6:
             self.pathid = 0
-        self.outfilehandle.write(next_line2)
 
         next_line3 = (
             "\t\t\t<LineString>\n"
