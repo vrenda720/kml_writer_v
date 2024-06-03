@@ -14,7 +14,7 @@
 		</Style>
 		<Style id="path_style1">
 			<LineStyle>
-				<color>ff00ff00</color>
+				<color>ff00ffff</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
@@ -23,7 +23,34 @@
 		</Style>
 		<Style id="path_style2">
 			<LineStyle>
+				<color>ff00ff00</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff00ff00</color>
+			</PolyStyle>
+		</Style>
+		<Style id="path_style3">
+			<LineStyle>
+				<color>ffffff00</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ff00ff00</color>
+			</PolyStyle>
+		</Style>
+		<Style id="path_style4">
+			<LineStyle>
 				<color>ffff0000</color>
+				<width>5</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>ffff0000</color>
+			</PolyStyle>
+		</Style>
+		<Style id="path_style5">
+			<LineStyle>
+				<color>ffff00ff</color>
 				<width>5</width>
 			</LineStyle>
 			<PolyStyle>
@@ -75,7 +102,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000004.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -89,7 +116,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000005.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -103,7 +130,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000006.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -159,7 +186,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000010.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -173,7 +200,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000011.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -187,7 +214,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000012.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -243,7 +270,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000016.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -257,7 +284,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000017.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -271,7 +298,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000018.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -327,7 +354,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000022.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -341,7 +368,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000023.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -355,7 +382,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000024.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -411,7 +438,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000028.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -425,7 +452,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000029.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -439,7 +466,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000030.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -474,7 +501,7 @@
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.026168,40.743796,0
-					-74.02616121329915,40.74397579081044,0
+					-74.02616121329915,40.743975790810445,0
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -488,28 +515,28 @@
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.026168,40.743796,0
-					-74.02616247150128,40.743975815543855,0
+					-74.02616247150128,40.74397581554386,0
 				</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000034.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.026168,40.743796,0
-					-74.02616034473397,40.74397577078532,0
+					-74.02616034473397,40.74397577078533,0
 				</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000035.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -523,7 +550,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000036.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -579,7 +606,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000040.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -593,7 +620,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000041.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -607,7 +634,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000042.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -663,7 +690,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000046.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -677,7 +704,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000047.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -691,7 +718,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000048.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -747,7 +774,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000052.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -761,7 +788,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000053.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -775,7 +802,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000054.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -831,7 +858,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000058.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -845,7 +872,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000059.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -859,7 +886,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000060.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -915,7 +942,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000064.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -929,7 +956,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000065.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -943,7 +970,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000066.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -999,7 +1026,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000070.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1013,7 +1040,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000071.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1027,7 +1054,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000072.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1083,7 +1110,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000076.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1097,21 +1124,21 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000077.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.026104,40.743956,0
-					-74.0260962037791,40.74413576730864,0
+					-74.0260962037791,40.74413576730863,0
 				</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000078.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1167,7 +1194,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000082.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1181,7 +1208,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000083.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1195,7 +1222,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000084.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1251,7 +1278,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000088.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1265,7 +1292,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000089.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1279,7 +1306,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000090.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1335,7 +1362,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000094.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1349,7 +1376,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000095.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1363,14 +1390,14 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000096.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.026088,40.744072,0
-					-74.02607926320975,40.74425174248061,0
+					-74.02607926320975,40.744251742480614,0
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -1419,7 +1446,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000100.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1433,7 +1460,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000101.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1447,7 +1474,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000102.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1503,7 +1530,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000106.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1517,7 +1544,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000107.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1531,7 +1558,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000108.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1587,7 +1614,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000112.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1601,7 +1628,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000113.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1615,7 +1642,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000114.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1671,7 +1698,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000118.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1685,7 +1712,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000119.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1699,7 +1726,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000120.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1755,7 +1782,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000124.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1769,7 +1796,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000125.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1783,14 +1810,14 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000126.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.02612,40.744228,0
-					-74.02611246397453,40.74440777367841,0
+					-74.02611246397453,40.74440777367842,0
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -1839,7 +1866,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000130.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1853,7 +1880,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000131.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1867,7 +1894,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000132.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1902,7 +1929,7 @@
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.026088,40.74432,0
-					-74.02607175983375,40.74449944298604,0
+					-74.02607175983375,40.74449944298605,0
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -1923,7 +1950,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000136.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1937,7 +1964,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000137.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -1951,7 +1978,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000138.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2007,7 +2034,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000142.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2021,7 +2048,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000143.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2035,7 +2062,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000144.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2070,7 +2097,7 @@
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.026056,40.744376,0
-					-74.02604007407187,40.74455545915241,0
+					-74.02604007407187,40.7445554591524,0
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -2091,21 +2118,21 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000148.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.026056,40.744376,0
-					-74.02603734359695,40.7445553080777,0
+					-74.02603734359695,40.74455530807769,0
 				</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000149.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2119,7 +2146,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000150.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2175,7 +2202,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000154.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2189,21 +2216,21 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000155.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.026048,40.744376,0
-					-74.02601694833055,40.74455431915056,0
+					-74.02601694833055,40.74455431915055,0
 				</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000156.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2259,7 +2286,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000160.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2273,7 +2300,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000161.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2287,7 +2314,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000162.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2343,7 +2370,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000166.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2357,7 +2384,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000167.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2371,7 +2398,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000168.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2427,7 +2454,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000172.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2441,7 +2468,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000173.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2455,7 +2482,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000174.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2511,7 +2538,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000178.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2525,7 +2552,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000179.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2539,7 +2566,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000180.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2595,7 +2622,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000184.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2609,7 +2636,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000185.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2623,7 +2650,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000186.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2644,7 +2671,7 @@
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.025736,40.745032,0
-					-74.02572394714204,40.74521163237423,0
+					-74.02572394714204,40.745211632374236,0
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -2679,7 +2706,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000190.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2693,7 +2720,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000191.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2707,7 +2734,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000192.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2763,21 +2790,21 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000196.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.025656,40.745092,0
-					-74.0256354299021,40.745271187899036,0
+					-74.0256354299021,40.74527118789903,0
 				</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000197.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2791,7 +2818,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000198.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2847,7 +2874,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000202.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2861,7 +2888,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000203.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2875,7 +2902,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000204.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2931,7 +2958,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000208.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2945,7 +2972,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000209.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -2959,7 +2986,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000210.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3015,7 +3042,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000214.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3029,7 +3056,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000215.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3043,7 +3070,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000216.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3099,7 +3126,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000220.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3113,7 +3140,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000221.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3127,7 +3154,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000222.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3183,7 +3210,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000226.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3197,7 +3224,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000227.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3211,7 +3238,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000228.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3267,7 +3294,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000232.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3281,7 +3308,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000233.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3295,7 +3322,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000234.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3351,7 +3378,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000238.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3365,7 +3392,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000239.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3379,7 +3406,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000240.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3414,7 +3441,7 @@
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.025272,40.745172,0
-					-74.02529514188096,40.74535100775817,0
+					-74.02529514188096,40.745351007758174,0
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -3428,14 +3455,14 @@
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.025264,40.745172,0
-					-74.02528521432673,40.74535114478154,0
+					-74.02528521432673,40.745351144781544,0
 				</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000244.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3449,7 +3476,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000245.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3463,7 +3490,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000246.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3519,7 +3546,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000250.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3533,7 +3560,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000251.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3547,7 +3574,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000252.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3603,7 +3630,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000256.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3617,7 +3644,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000257.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3631,7 +3658,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000258.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3687,7 +3714,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000262.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3701,21 +3728,21 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000263.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.02512,40.745092,0
-					-74.0251360871209,40.74527145090855,0
+					-74.0251360871209,40.74527145090854,0
 				</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000264.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3771,7 +3798,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000268.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3785,7 +3812,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000269.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3799,7 +3826,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000270.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3855,7 +3882,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000274.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3869,7 +3896,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000275.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3883,7 +3910,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000276.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3939,7 +3966,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000280.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3953,7 +3980,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000281.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -3967,7 +3994,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000282.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4023,7 +4050,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000286.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4037,7 +4064,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000287.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4051,7 +4078,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000288.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4107,7 +4134,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000292.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4121,21 +4148,21 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000293.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.02472,40.744732,0
-					-74.02476493918485,40.744908612500986,0
+					-74.02476493918485,40.744908612501,0
 				</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000294.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4191,7 +4218,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000298.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4205,7 +4232,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000299.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4219,7 +4246,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000300.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4275,7 +4302,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000304.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4289,7 +4316,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000305.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4303,7 +4330,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000306.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4359,7 +4386,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000310.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4373,21 +4400,21 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000311.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
 				<altitudeMode>clampToGround</altitudeMode>
 				<coordinates>
 					-74.024544,40.744608,0
-					-74.024551401863,40.74478777687885,0
+					-74.024551401863,40.74478777687886,0
 				</coordinates>
 			</LineString>
 		</Placemark>
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000312.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4443,7 +4470,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000316.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4457,7 +4484,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000317.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4471,7 +4498,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000318.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4527,7 +4554,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000322.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4541,7 +4568,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000323.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4555,7 +4582,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000324.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4611,7 +4638,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000328.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4625,7 +4652,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000329.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4639,7 +4666,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000330.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4695,7 +4722,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000334.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4709,7 +4736,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000335.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4723,7 +4750,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000336.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4779,7 +4806,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000340.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4793,7 +4820,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000341.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4807,7 +4834,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000342.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4863,7 +4890,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000346.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4877,7 +4904,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000347.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4891,7 +4918,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000348.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4947,7 +4974,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000352.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4961,7 +4988,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000353.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -4975,7 +5002,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000354.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5031,7 +5058,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000358.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5045,7 +5072,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000359.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5059,7 +5086,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000360.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5115,7 +5142,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000364.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5129,7 +5156,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000365.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5143,7 +5170,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000366.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5199,7 +5226,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000370.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5213,7 +5240,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000371.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5227,7 +5254,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000372.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5283,7 +5310,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000376.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5297,7 +5324,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000377.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5311,7 +5338,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000378.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5367,7 +5394,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000382.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5381,7 +5408,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000383.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5395,7 +5422,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000384.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5451,7 +5478,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000388.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5465,7 +5492,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000389.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5479,7 +5506,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000390.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5535,7 +5562,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000394.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5549,7 +5576,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000395.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5563,7 +5590,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000396.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5619,7 +5646,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000400.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5633,7 +5660,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000401.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5647,7 +5674,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000402.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5703,7 +5730,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000406.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5717,7 +5744,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000407.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5731,7 +5758,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000408.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5787,7 +5814,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000412.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5801,7 +5828,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000413.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5815,7 +5842,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000414.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5871,7 +5898,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000418.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5885,7 +5912,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000419.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5899,7 +5926,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000420.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5955,7 +5982,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000424.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5969,7 +5996,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000425.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -5983,7 +6010,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000426.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -6039,7 +6066,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000430.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -6053,7 +6080,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000431.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -6067,7 +6094,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000432.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -6123,7 +6150,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000436.json</name>
 			<description></description>
-			<styleUrl>#path_style0</styleUrl>
+			<styleUrl>#path_style3</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -6137,7 +6164,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000437.json</name>
 			<description></description>
-			<styleUrl>#path_style1</styleUrl>
+			<styleUrl>#path_style4</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>
@@ -6151,7 +6178,7 @@
 		<Placemark>
 			<name>siteRTX0002-camA001-2024-01-31-13-14-31-00000438.json</name>
 			<description></description>
-			<styleUrl>#path_style2</styleUrl>
+			<styleUrl>#path_style5</styleUrl>
 			<LineString>
 				<extrude>0</extrude>
 				<tesselate>1</tesselate>

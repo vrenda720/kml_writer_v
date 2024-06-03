@@ -839,3 +839,7 @@ def lla_to_image_enu_opk_arrays(
         return column, row, X_camera[2] < 0
     else:
         return column, row
+
+# opk_to_ypr(lat, lon, alt, o, p, k, use_scipy=_USE_SCIPY)
+# return yaw, pitch, roll
+print(opk_to_ypr(40.745268, -74.025488, 32.2, 87.63394218002315, 0.6402805446239054, 0.1403051924373668))
