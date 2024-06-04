@@ -107,7 +107,7 @@ def getSignOf(chifre):
     else:
         return -1
 
-def hrp2opk(Roll, Pitch, heading):
+def rph2opk(Roll, Pitch, heading):
     Roll = np.deg2rad(Roll)
     Pitch   = np.deg2rad(Pitch)
     heading = np.deg2rad(heading)
@@ -170,14 +170,14 @@ def hrp2opk(Roll, Pitch, heading):
 
     return(Omega,Phi,Kappa)
 
-roll = 10
-pitch = 10
-yaw = 90
-omega, phi, kappa = hrp2opk(roll, pitch, yaw)
+# roll = 10
+# pitch = 10
+# yaw = 90
+# omega, phi, kappa = rph2opk(roll, pitch, yaw)
 
 
-print ('omega = ', omega)
-print ('phi = ', phi)
-print ('kappa = ', kappa)
+# print ('omega = ', omega)
+# print ('phi = ', phi)
+# print ('kappa = ', kappa)
 
 # https://github.com/davdmaccartney/rpy_opk/blob/master/rpy_opk.py

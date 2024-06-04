@@ -4,7 +4,7 @@ def calculate_new_point(lat1, lon1, distance, kappa):
     # Convert input from degrees to radians
     lat1_rad = math.radians(lat1)
     lon1_rad = math.radians(lon1)
-    kappa_rad = math.radians(math.degrees(kappa))
+    kappa_rad = math.radians(kappa)
     # kappa_rad = math.radians(-135)
     # kappa_rad = kappa # - 0.698132
     
